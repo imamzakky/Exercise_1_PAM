@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ExercisePAM</string>
+    <string name="tEmail">Masukkan Email</string>
+    <string name="tPassword">Masukkan Password</string>
+    <string name="btsignin">Sign-In</string>
+    <string name="enama">Masukkan Nama</string>
+    <string name="ealamat">Masukkan Alamat</string>
+    <string name="ldaftar">Pendaftaran</string>
+    <string name="eemail">Masukkan Email</string>
+    <string name="epass">Masukkan Password</string>
+    <string name="erepass">Masukkan Password Kembali</string>
+    <string name="btbatal">Batal</string>
+    <string name="btdaftar">Daftar</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor Telepon</string>
+    <string name="label2">Login Berhasil</string>
+</resources>
